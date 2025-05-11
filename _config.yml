@@ -16,10 +16,10 @@
 title: Cyber Security Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-    Just Another Cyber Security Blog
+  Just Another Cyber Security Blog
 twitter_username: thebluex13100
 github_username: thebluex13100
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "thebluex13100"
   avatar : "/assets/images/avatar.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Cyber Security is life"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
